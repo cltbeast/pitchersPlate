@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758195151428",
+    "project_id": "plate-e107c",
+    "storage_bucket": "plate-e107c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758195151428:android:95bd525dd547a67de69211",
+        "android_client_info": {
+          "package_name": "com.plate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758195151428-q4hal7622aduc5fhjjf9a220hkp2niav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDNCRlpeI7yei9nQ1lZWgpGJV8iDIZko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758195151428-q4hal7622aduc5fhjjf9a220hkp2niav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
